@@ -23,12 +23,12 @@ After this ml_tf_inferencer object must be seen form any MAX patch. Please see "
 Please make sure you have python installed on your computer. If not please downoad and install latest version of python from: https://www.python.org/downloads/
 
 You will need few additional libriries in Python. Please, install folloving libraries by executing following commands in your command prompt:
-
+'''bash
 pip install argparse
 pip install numpy
 pip install pip install python-osc
 pip install tensorflow  / pip install tensorflow-gpu
-
+'''
 #### GPU support
 
 Please first verify if you have a CUDA-capable GPU. Go to Windows Device Manager, where you will find the vendor name and model of your graphics card(s). If you have an NVIDIA card that is listed in http://developer.nvidia.com/cuda-gpus, that GPU is CUDA-capable. The Release Notes for the CUDA Toolkit (that you need to isntall) also contain a list of supported products.
