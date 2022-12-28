@@ -9,7 +9,7 @@ Here are the steps to get Visual studio project running
 
 	cd C:\Users\username\Documents\Max 8\Packages\max-sdk-main\build
 	cmake -G "Visual Studio 17 2022" ..   ( or whatever VS you are using)
-	
+
 	this will (re-)make all MAX/SDK projects. 
 
 4. unzip "oscpack_1_1_0.zip" and place folder somewhere. 
@@ -38,7 +38,7 @@ Here are the steps to get Visual studio project running
 P.S. I had a problem 
 	in both oscpack_1_1_0 and ml_tf_inferencer the setting of - C/C++ -> Code Generation -> runtime libarary = must be the same to run.
 	I had "Multi-threaded Debug (/MTd)" but I think it shouldn't be a problem as far as it's consistent and same in both. 
-	
-	
-	
+
+
+
 
