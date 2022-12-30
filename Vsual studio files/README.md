@@ -1,6 +1,6 @@
 Here are the steps to get Visual studio project running 
 
-1. Download and put MAX/SDK into MAX packages filder. 
+1. Download and put MAX/SDK into MAX packages folder. 
 	I used latest verision. 
 
 2. take from folder "visual studio files" folder "ml_tf_inferencer" and put in in the MAX/SDK sourse files directory. for me it was - ..\Max 8\Packages\max-sdk-main\source\advanced\
