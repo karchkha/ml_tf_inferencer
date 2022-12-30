@@ -1,4 +1,4 @@
-Here are the steps to get Visual studio project running 
+Here is steps-by-step guide for geting Visual studio project and building the MAX extention: 
 
 1. Download and put MAX/SDK into MAX packages folder. 
 	I used latest verision. 
